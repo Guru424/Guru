@@ -4,6 +4,7 @@ import org.apache.log4j.Logger;
 		/*Created Log.java and Modified by Guru on 19/02/2018
 		This class is used for Logging purpose  */
 
+/* Log file changes for git rebase */
 public class Log {
 
 	//Initialize Log4j logs
